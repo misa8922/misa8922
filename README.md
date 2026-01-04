@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 About Me<br>🤖 AI / ML Engineer (Beginner–Intermediate) learning by building and experimenting<br>🧠 Exploring Machine Learning & Deep Learning fundamentals step by step<br>🐍 Comfortable with Python for data analysis, ML models, and experiments<br>📊 Hands-on practice with NumPy, Pandas, scikit-learn<br>🧪 Learning TensorFlow, PyTorch, and Keras through small projects<br>🌱 Actively improving through practice, debugging, and reading
+🤖 AI / ML Engineer (Beginner–Intermediate) learning by building and experimenting<br>🧠 Exploring Machine Learning & Deep Learning fundamentals step by step<br>🐍 Comfortable with Python for data analysis, ML models, and experiments<br>📊 Hands-on practice with NumPy, Pandas, scikit-learn<br>🧪 Learning TensorFlow, PyTorch, and Keras through small projects<br>🌱 Actively improving through practice, debugging, and reading
 
 
 ## 🌐 Socials:
